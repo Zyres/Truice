@@ -13222,7 +13222,7 @@ procedure TMainForm.SetSAITarget(t: integer);
     25:  //SMART_TARGET_CLOSEST_ENEMY
         begin
             lbcytarget_param1.Caption := 'maxDist';
-            lbcytarget_param2.Caption := '';
+            lbcytarget_param2.Caption := 'playerOnly (0/1)';
             lbcytarget_param3.Caption := '';
             lbcytarget_x.Caption := '';
             lbcytarget_y.Caption := '';
@@ -13236,7 +13236,7 @@ procedure TMainForm.SetSAITarget(t: integer);
     26:  //SMART_TARGET_CLOSEST_FRIENDLY
         begin
             lbcytarget_param1.Caption := 'maxDist';
-            lbcytarget_param2.Caption := '';
+            lbcytarget_param2.Caption := 'playerOnly (0/1)';
             lbcytarget_param3.Caption := '';
             lbcytarget_x.Caption := '';
             lbcytarget_y.Caption := '';
