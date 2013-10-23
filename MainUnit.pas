@@ -10537,7 +10537,7 @@ begin
             lbcyevent_type.Hint := 'On Target Health Percentage';
             edcyevent_type.Hint := lbcyevent_type.Hint;
         end;
-    13:  //SMART_EVENT_TARGET_CASTING
+    13:  //SMART_EVENT_VICTIM_CASTING
         begin
             lbcyevent_param1.Caption := 'RepeatMin';
             lbcyevent_param2.Caption := 'RepeatMax';
@@ -10545,7 +10545,7 @@ begin
             lbcyevent_param4.Caption := '';
             lbcyevent_param3.Hint := 'if 0, check is done for all spells';
             edcyevent_param3.Hint := lbcyevent_param3.Hint;
-            lbcyevent_type.Hint := 'On Target Casting Spell';
+            lbcyevent_type.Hint := 'On Victim Casting Spell';
             edcyevent_type.Hint := lbcyevent_type.Hint;
         end;
     14:  //SMART_EVENT_FRIENDLY_HEALTH
