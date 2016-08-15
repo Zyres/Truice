@@ -33,6 +33,10 @@ http://www.trinitycore.org/f/topic/180-bin-truice-win32/  (old topic)
 http://www.trinitycore.org/f/topic/7639-bin-truice-win32/ (new topic)
 
 Truice Download:
-http://www.trinitycore.org/f/files/category/2-tools/
+http://www.trinitycore.org/f/files/category/2-tools/ (old dead link)
+
+This is new and updated tool, please use it in feature:
+Keira2 by Helias and Shin https://community.trinitycore.org/topic/11397-keira2-the-trinitycore-database-web-editor-cross-platform/
+Some more updated Truice by chaosua https://community.trinitycore.org/topic/7639-bin-truice-win32/
 
 Author: Faq
